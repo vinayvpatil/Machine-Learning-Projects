@@ -42,7 +42,7 @@ Why it matters:
 - Poor freight estimates distort margin and inventory planning.
 - Automating freight estimation helps procurement teams forecast true cost before invoice arrival.
 
-![1773226174110](image/readme/1773226174110.png)
+![1773226174110](images/1773226174110.png)
 
 ---
 
@@ -58,7 +58,7 @@ why it matters:
 - Abnormal freight charges, pricing deviations, or delivery delays often indicate errors, disputes, or compliance risks.
 - An automated flagging system enables finance teams to focus attention on high-risk invoices while allowing low-risk invoices to be processed automatically.
 
-![1773226601381](image/readme/1773226601381.png)
+![1773226601381](images/1773226601381.png)
 
 ---
 
@@ -207,5 +207,5 @@ Vinay Patil
 
 Data Scientist
 
-✉️Email: sammarjeet.412@gmail.com
+✉️Email: vinaypatilfree@gmail.com
 
