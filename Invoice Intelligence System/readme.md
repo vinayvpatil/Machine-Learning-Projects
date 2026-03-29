@@ -146,26 +146,26 @@ A streamlit application demonstrates the complete pipeline:
 
 <h2><a class="anchor" id="project-structure"></a>📂Project Structure</h2>
 
-invoice-intelligence-system/
-│
-├── app.py
-│
-├── data/
-│   └── inventory.db
-│
-├── models/
-│   ├── predict_freight_model.pkl
-│   └── predict_invoice_flag_model.pkl
-│
-├── inference/
-│   ├── predict_freight.py
-│   └── predict_invoice_flag.py
-│
-├── data_preprocessing.py
-├── model_evaluation.py
-├── train_model.py
-│
-└── README.md
+invoice-intelligence-system  
+│  
+├── app.py  
+│  
+├── data  
+│   └── inventory.db  
+│  
+├── models  
+│   ├── predict_freight_model.pkl  
+│   └── predict_invoice_flag_model.pkl  
+│  
+├── inference  
+│   ├── predict_freight.py  
+│   └── predict_invoice_flag.py  
+│  
+├── data_preprocessing.py  
+├── model_evaluation.py  
+├── train_model.py  
+│  
+└── README.md  
 
 ---
 
@@ -203,11 +203,9 @@ invoice-intelligence-system/
 
 <h2><a class="anchor" id=`author--contact`></a>Author & Contact</h2>
 
-Samarjeet Singh
+Vinay Patil
 
 Data Scientist
 
 ✉️Email: sammarjeet.412@gmail.com
-
-[LinkedIn](https://www.linkedin.com/in/samarjeet-singh-1908551b7)
 
