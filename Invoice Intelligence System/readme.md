@@ -12,7 +12,11 @@
 - <a href="#metrics">Evaluation Metrics </a>
 - <a href="#application">Application </a>
 - <a href="#project-structure">Project Structure </a>
+- <a href="#technologies-used">Technologies Used </a>
 - <a href="#how-to-run-this-project">How to Run This Project </a>
+- <a href="#use-cases">Use Cases </a>
+- <a href="#future-improvements">Future Improvements </a>
+- <a href="#conclusion">Conclusion </a>
 - <a href="#author--contact">Author & Contact </a>
 
 ---
@@ -169,7 +173,19 @@ invoice-intelligence-system
 
 ---
 
+# Technologies Used
 
+* Python
+* Pandas
+* NumPy
+* Scikit-learn
+* SQLite
+* Joblib
+* Streamlit
+* Matplotlib
+* Seaborn
+
+---
 
 <h2><a class="anchor" id="`how-to-run-this-project`"></a>How to run this project</h2>
 
@@ -199,7 +215,41 @@ invoice-intelligence-system
 
 ---
 
+# Use Cases
 
+This system can be used by:
+
+* Finance departments
+* Procurement teams
+* Vendor management teams
+* Internal audit teams
+
+Applications include:
+
+* Fraud detection
+* Invoice verification
+* Vendor monitoring
+* Automated auditing
+
+---
+
+# Future Improvements
+
+Possible enhancements:
+
+* Explainable AI using **SHAP**
+* Real-time API deployment using **FastAPI**
+* Dashboard analytics for fraud trends
+* Vendor risk scoring system
+* Integration with enterprise ERP systems
+
+---
+
+# Conclusion
+
+The **Vendor Invoice Intelligence System** demonstrates how machine learning can automate invoice verification and fraud detection. By combining data analytics, machine learning, and an interactive dashboard, the system helps organizations identify suspicious transactions efficiently and reduce financial risk.
+
+---
 
 <h2><a class="anchor" id=`author--contact`></a>Author & Contact</h2>
 
