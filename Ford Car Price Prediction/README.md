@@ -21,9 +21,10 @@ This project aims to predict the **price of used Ford cars** based on a dataset 
       * **Models Used**:
           * A suite of regression models were trained, including Ridge, XGBoost, Random Forest, AdaBoost, Gradient Boosting, Bagging, Decision Tree, SVR, and K-Nearest Neighbors (KNN).
   * **Best R² Score**:
-      * **0.934** with XGBoost Regressor.
-      * **0.926** with Random Forest Regressor.
-      * **0.921** with Gradient Boosting Regressor.
+      * **0.924** with Ridge Regression.
+      * **0.917** with XGBoost.
+      * **0.912** with SVR.
+      * **0.911** with Gradient Boosting.
       * The high R² scores indicate that the models are highly effective at predicting the price of used Ford cars.
 
 -----
